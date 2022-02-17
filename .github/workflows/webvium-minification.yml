@@ -33,6 +33,6 @@ jobs:
           source-directory: webvium.github.io
           destination-github-username: 'webvium'
           destination-repository-name: 'webvium.github.io'
-          user-email: droidmj@protonmail.com
+          user-email: mrepol742@gmail.com
           commit-message: Initial Commit
           target-branch: master
