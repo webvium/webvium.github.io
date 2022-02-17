@@ -20,7 +20,7 @@ jobs:
           java-version: 11.0.10
 
       - name: Clone Git Repository
-        run: git clone https://github.com/webvium/webvium.github.io
+        run: git clone -b dev https://github.com/webvium/webvium.github.io
       - name: Run
         run: java Main
       
@@ -33,6 +33,6 @@ jobs:
           source-directory: webvium.github.io
           destination-github-username: 'webvium'
           destination-repository-name: 'webvium.github.io'
-          user-email: droidmj@protonmail.com
+          user-email: mrepol742@gmail.com
           commit-message: Initial Commit
           target-branch: master
