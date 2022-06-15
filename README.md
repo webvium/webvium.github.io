@@ -9,8 +9,3 @@ m     m        #               "
                                                                          
 
 ```
-# 👨‍💻 Webvium
-
-#### Lightweight, Fast, Material and Full-Featured Android Web Browser
-
-#### https://webvium.github.io
